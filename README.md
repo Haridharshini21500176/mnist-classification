@@ -123,21 +123,25 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![op](./a1.png)
-![op](./a2.png)
-![op](./a3.png)
+![op](./OP.jpg)
+
+![op](./OP1.jpg)
+
+![op](./OP2.jpg)
 
 ### Classification Report
 
-Include Classification Report here
+![op](./OP3CLAS.jpg)
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![op](./OP3CON.jpg)
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+![op](./OP5.jpg)
+
+![op](./OP4.jpg)
 
 ## RESULT
-Include your result here.
+A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed successfully.
