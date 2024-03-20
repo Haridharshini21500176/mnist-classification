@@ -12,7 +12,7 @@ The MNIST dataset stands as a cornerstone in both machine learning and computer 
 
 
 ## Neural Network Model
-
+![op](./NEURON.png)
 
 ## DESIGN STEPS
 
